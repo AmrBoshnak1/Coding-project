@@ -20,5 +20,5 @@ if user == pc:
 elif (user == 'p' and pc == 'r') or (user == 'r' and pc == 's') or (user == 's' and pc == 'p'):
     print("You won!")
 else:
-    print("You lose!")
+    print("Yo lose")
 
